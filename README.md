@@ -80,4 +80,8 @@ The repository and network plan are being prepared. AWS deployment,
 test results, resource IDs, screenshots, and the final report will
 be added after the corresponding steps are completed.
 
+##Author 
+
+Archita Saxena
+
 **Note:** Planned architecture is not evidence of a completed deployment.
